@@ -31,7 +31,7 @@ div {
     text-align: center;
     padding: 15px;
     box-sizing: border-box;
-    margin: 15% auto auto;
+    margin: 10% auto auto;
     display: grid;
     grid-template-rows: 270px 160px;
     gap: 30px;
